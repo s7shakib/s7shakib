@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sultani</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://s7shakib.github.io/portfolio/](https://s7shakib.github.io/portfolio/)
 
